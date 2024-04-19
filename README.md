@@ -1,6 +1,6 @@
 # Weather App README
 ## Overview
-This Weather App provides a simple and clean interface to check the current weather and upcoming forecasts for a city. It displays the current temperature, as well as the weather forecasts for the next three days.
+This is the first draft of the Weather App provides a simple and clean interface to check the current weather and upcoming forecasts for a city. It displays the current temperature, as well as the weather forecasts for the next three days.
 
 ## Special Features
 #### 1. Responsive Design
